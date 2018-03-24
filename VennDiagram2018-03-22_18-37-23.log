@@ -1,0 +1,10 @@
+INFO [2018-03-22 18:37:23] $x
+INFO [2018-03-22 18:37:23] list(`(red) RaceID3 reduced` = names_r3_reduced, `(green) RaceID3 default` = names_r3_default, 
+INFO [2018-03-22 18:37:23]     `(yellow) scater R3 atmpt` = rownames(genefiltered))
+INFO [2018-03-22 18:37:23] 
+INFO [2018-03-22 18:37:23] $fill
+INFO [2018-03-22 18:37:23] c("red", "green", "yellow")
+INFO [2018-03-22 18:37:23] 
+INFO [2018-03-22 18:37:23] $filename
+INFO [2018-03-22 18:37:23] NULL
+INFO [2018-03-22 18:37:23] 

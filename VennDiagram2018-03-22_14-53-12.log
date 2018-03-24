@@ -1,0 +1,10 @@
+INFO [2018-03-22 14:53:12] $x
+INFO [2018-03-22 14:53:12] list(`(blue) RaceID2` = names_r2, `(red) RaceID3 reduced` = names_r3_reduced, 
+INFO [2018-03-22 14:53:12]     `(green) RaceID3 default` = names_r3_default)
+INFO [2018-03-22 14:53:12] 
+INFO [2018-03-22 14:53:12] $fill
+INFO [2018-03-22 14:53:12] c("blue", "red", "green")
+INFO [2018-03-22 14:53:12] 
+INFO [2018-03-22 14:53:12] $filename
+INFO [2018-03-22 14:53:12] NULL
+INFO [2018-03-22 14:53:12] 

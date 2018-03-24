@@ -1,0 +1,11 @@
+INFO [2018-03-22 18:37:10] $x
+INFO [2018-03-22 18:37:10] list(`(red) RaceID3 reduced` = names_r3_reduced, `(green) RaceID3 default` = names_r3_default, 
+INFO [2018-03-22 18:37:10]     `(yellow) scater R3 atmpt` = rownames(genefiltered))
+INFO [2018-03-22 18:37:10] 
+INFO [2018-03-22 18:37:10] $fill
+INFO [2018-03-22 18:37:10] c("blue", "red", "green", "yellow")
+INFO [2018-03-22 18:37:10] 
+INFO [2018-03-22 18:37:10] $filename
+INFO [2018-03-22 18:37:10] NULL
+INFO [2018-03-22 18:37:10] 
+ERROR [2018-03-22 18:37:10] Unexpected parameter length for 'fill'
