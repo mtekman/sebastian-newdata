@@ -1,0 +1,9 @@
+INFO [2018-04-06 13:40:04] $x
+INFO [2018-04-06 13:40:04] list(`(blue) sagar` = rownames(control_sc@fdata), `(red) sc5` = rownames(sc5@fdata))
+INFO [2018-04-06 13:40:04] 
+INFO [2018-04-06 13:40:04] $fill
+INFO [2018-04-06 13:40:04] c("blue", "red")
+INFO [2018-04-06 13:40:04] 
+INFO [2018-04-06 13:40:04] $filename
+INFO [2018-04-06 13:40:04] NULL
+INFO [2018-04-06 13:40:04] 

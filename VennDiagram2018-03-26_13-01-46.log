@@ -1,0 +1,9 @@
+INFO [2018-03-26 13:01:46] $x
+INFO [2018-03-26 13:01:46] list(`(blue) sagar` = ensembl_sagar, `(red) tekman` = ensembl_mine)
+INFO [2018-03-26 13:01:46] 
+INFO [2018-03-26 13:01:46] $fill
+INFO [2018-03-26 13:01:46] c("blue", "red")
+INFO [2018-03-26 13:01:46] 
+INFO [2018-03-26 13:01:46] $filename
+INFO [2018-03-26 13:01:46] NULL
+INFO [2018-03-26 13:01:46] 
